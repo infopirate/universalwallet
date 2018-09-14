@@ -4,13 +4,13 @@ description: How To get it up & running..
 
 # Using The Wallet
 
-## Getting Photon
+## Getting The Universal Wallet
 
-Becoming a super hero is a fairly straight forward process:
+Becoming a super rich crypto kingpin is a fairly straight forward process:
 
 ```
-$ git clone https://github.com/unibitlabs/photon.git
-$ cd photon
+$ git clone https://aseriousgogetta@bitbucket.org/aseriousgogetta/universalwallet.git
+$ cd universalwallet
 $ npm install && npm start
 ```
 

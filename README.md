@@ -34,7 +34,7 @@ We took alot of our UI/UX inspiration from similiar technologies. \([Exodus](htt
 
 ![Most of my UI/UX influence came from the Exodus wallet.](.gitbook/assets/screenshot_2018-05-02_19-56-49.png)
 
-## Can I Re-Distribute the Photon wallet as my own wallet?
+## Can I Re-Distribute the Universal wallet as my own wallet?
 
 Please see license.md
 

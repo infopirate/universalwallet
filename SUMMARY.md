@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Photon Wallet Documentation](README.md)
+* [Universal Wallet Documentation](README.md)
 * [Using The Wallet](using.md)
-* [Photon Wallet ChangeLog](changelog.md)
+* [Universal Wallet Change Log](changelog.md)
 

@@ -2,9 +2,9 @@
 description: Keep up with the changes in each version.
 ---
 
-# Photon Wallet ChangeLog
+# Universal Wallet Change Log
 
-## v1.0.0
+## v0.0.1
 
 ### Introduced
 
@@ -15,24 +15,7 @@ description: Keep up with the changes in each version.
 3. bluebird
 4. more to be named later maybe...
 
-![Photon v0.1.1](.gitbook/assets/mc.png)
+![Universal Wallet As A Boilerplate Back In Version 0.1.1](.gitbook/assets/mc.png)
 
-## v1.1.0
-
-![Photon v1.1.0](.gitbook/assets/assets-2f-lf15ouepy9ou2_kcqak-2f-lf5ddu-bjovobqtxvfc-2f-lf5dgpvphqtvv6cutma-2fgui-view.png)
-
-### Fixed
-
-* Software now allows for control of blockchain connection thru a config file.
-* Also, introduced a bootstrap template for UI/UX purposes.
-
-## v1.1.1
-
-### Changed
-
-* UI/UX has been changed to reflect Exodus wallet.
-
-![Nebula v1.1.1](.gitbook/assets/nebula-preview.png)
-
-
+## 
 

@@ -2,11 +2,11 @@
 description: Documentation for Photon Wallet
 ---
 
-# Photon Wallet Documentation
+# Universal Wallet Documentation
 
-## What is Photon Wallet?
+## What is the Universal Wallet?
 
-The Photon Wallet is a \(GUI\) Graphical User Interface Wallet for [MultiChain](https://www.multichain.com/) Blockchains. 
+The Universal Wallet is a \(GUI\) Graphical User Interface Wallet for [MultiChain](https://www.multichain.com/) Blockchains & Many Others. 
 
 ![Open platform for building Blockchains](.gitbook/assets/13ed5e_9f93b9c335f042938aac22f37109ea50_mv2.png)
 
@@ -16,7 +16,7 @@ MultiChain is an open platform for building public or private permission-based b
 
 ## What is it used for?
 
-The Photon Wallet can be used for a variety of purposes. Some of those could include, modifying it and pairing it with your own Multichain blockchain parameter\(s\) file. Using the Photon Wallet alongside MultiChain allows for an end-user to create a new multichain blockchain and pair it with a graphical wallet. Until Photon came along, this was not possible. As MultiChain was operated from the CLI.
+The Universal Wallet can be used for a variety of purposes. Some of those could include, modifying it and pairing it with your own Multichain blockchain parameter\(s\) file. Using the  Wallet alongside MultiChain allows for an end-user to create a new multichain blockchain and pair it with a graphical wallet. Until the Universal Wallet came along, this was not possible. As MultiChain was operated only from the CLI.
 
 ![Traditional CLI Interactions](.gitbook/assets/console-umw.png)
 
